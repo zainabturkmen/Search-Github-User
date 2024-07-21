@@ -1,4 +1,4 @@
-## User search  Project
+## Search Github User
 
 - css provided (global styles, styled components)
 - folders/files already setup
